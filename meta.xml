@@ -1,0 +1,15 @@
+<meta>
+  <info author="iManGaaX" description = "LoginPanel" version = "2.1.0" type = "script" name = "DxLoginPanel" />
+
+  <script src="server.lua" type="server" />
+  <script src="client.lua" type="client" />
+  
+  <file src="font.ttf" />
+  <file src="back.png" />
+  <file src="back2.png" />
+  <file src="erbox.png" />
+  <file src="ebox.png" />
+  <file src="border.png" />
+  <file src="accept.png" />
+  <file src="decline.png" />
+</meta>
